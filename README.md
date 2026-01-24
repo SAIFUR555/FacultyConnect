@@ -1,2 +1,3 @@
-# FacultyConnect
-Developed and tested the slot management system for FacultyConnect using PHP and JavaScript. Implemented the slot booking interface and ensured proper database connectivity with MySQL. Performed form validation, debugging, and page testing to ensure accurate slot scheduling and data storage.
+FacultyConnect – Slot Management System
+
+FacultyConnect is a web-based slot management system developed for the SQAT course. The system helps manage and organize faculty time slots for classes and meetings. Users can book available slots, view schedules, and ensure accurate slot data storage. The project is built using PHP, JavaScript, HTML, CSS, and MySQL (XAMPP).
